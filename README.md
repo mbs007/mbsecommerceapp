@@ -48,7 +48,9 @@ username - raja
 password - raja@2021
 
 ### mbsecommerceapp
-Visual Studio Code
+//Visual Studio Code
+//Github
+Used Netlify CLI and deployed the project on (https://mbsecomapp.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
