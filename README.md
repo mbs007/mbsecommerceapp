@@ -1,3 +1,54 @@
+### Resources used in this project
+
+All the resources like images and fetch url's used in this project belongs to NxtWave: [https://www.ccbp.in/](https://www.ccbp.in/)
+
+### Project Short Description
+
+This is a basic e-commerce app where users can login and browse a list of products with search,filters,sortby etc..and add them to their cart.
+
+Implemented Different pages and routes for Login, Products, Product details using React Router.
+
+Authenticating and authorizing users by taking username, password and doing login POST HTTP API
+Call and implementing filters by sending them as query parameters to product api calls.
+
+Persisted user login state by keeping jwt token in Cookies, Sending it in headers of further api calls
+to authorize the user.
+
+### Technologies Used 
+
+React JS, JavaScript, HTML, CSS, Routing, REST API Calls
+
+### NPM Packages Used
+
+// npx create-react-app (react,react-dom)
+ 
+js-cookie,react-icons,react-loader-spinner,react-router-dom
+
+
+### Key Concepts Used
+ Class Components ,Functional Components, Fetch API, Cookies...
+ State,setState,Props,ReactContext,ConditionalRendering,ComponentLifeCycle,Consuming Promises through async and await...
+ React Router Components like Browser Router,Route,Routes,Link...
+ Wrapper Component (Protected Route) for redirection logic in unauthenticated scenarios...
+ Outlet,Navigate,useLocation,useNavigate,useParams...from react-router-dom...
+ CSS FlexBox...
+ 
+
+
+### User Credentials
+//Prime Users
+username - praneetha
+password -praneetha@2021
+
+username - rahul
+password - rahul@2021
+
+//Non Prime User
+username - raja
+password - raja@2021
+
+### mbsecommerceapp
+Visual Studio Code
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +119,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
